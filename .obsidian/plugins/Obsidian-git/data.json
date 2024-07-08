@@ -19,7 +19,7 @@
   "refreshSourceControl": true,
   "basePath": "D:\\Program file\\Git",
   "differentIntervalCommitAndPush": true,
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 500,
   "showBranchStatusBar": true,

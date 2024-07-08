@@ -1,1 +1,0 @@
-this is a test about both github and obsidian
