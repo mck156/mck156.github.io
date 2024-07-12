@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c4381ee7a63509b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/第一次速通.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mck156.github.io/记录.md",
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/第一次速通.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mck156.github.io/记录.md",
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/第一次速通.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mck156.github.io/记录.md"
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/第一次速通.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0722e2f9d81f2891",
+  "active": "9c4381ee7a63509b",
   "lastOpenFiles": [
+    "mck156.github.io/Datawhale机器学习2024暑假第二期",
+    "mck156.github.io/记录.md",
+    "mck156.github.io/Datawhale机器学习2024暑假第二期/第一次速通.md",
     "mck156.github.io/test.md",
     "mck156.github.io/nihao.md",
-    "mck156.github.io/记录.md",
     "mck156.github.io/README.md",
-    "未命名.md",
     "mck156.github.io/记录",
     "mck156.github.io",
     "欢迎.md"
