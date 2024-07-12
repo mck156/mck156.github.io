@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f332f3b262fcad75",
@@ -146,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c94a54e61a6912b7",
+  "active": "549fb865731ce35e",
   "lastOpenFiles": [
     "mck156.github.io/基础知识学习/numpy",
     "mck156.github.io/基础知识学习/Pandas",
