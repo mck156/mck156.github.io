@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,11 +148,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c75aa33a5ea8498",
+  "active": "d65c0c3c399b8959",
   "lastOpenFiles": [
+    "mck156.github.io/image/Pasted image 20240713224223.png",
+    "mck156.github.io/基础知识学习/黑马面经课程/JAVA面试专题.md",
     "mck156.github.io/README.md",
     "README.md",
-    "mck156.github.io/基础知识学习/黑马面经课程/JAVA面试专题.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
     "mck156.github.io/基础知识学习/黑马面经课程",
     "mck156.github.io/image/A000001.png",
