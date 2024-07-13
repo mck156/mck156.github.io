@@ -24,7 +24,7 @@
   "refreshSourceControlTimer": 500,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": true,
-  "submoduleRecurseCheckout": false,
+  "submoduleRecurseCheckout": true,
   "gitDir": "D:\\obsidian 仓库\\MikeBlogInTechnology\\mck156.github.io\\.git",
   "showFileMenu": true,
   "authorInHistoryView": "hide",
