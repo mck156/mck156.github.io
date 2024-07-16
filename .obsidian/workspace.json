@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f332f3b262fcad75",
@@ -147,7 +148,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5c1b059516ac9ce",
+  "active": "c94a54e61a6912b7",
   "lastOpenFiles": [
     "mck156.github.io/Datawhale机器学习2024暑假第二期/002 赛题说明——电力需求预测挑战赛.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/001 第一次速通.md",
