@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.2 task1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.2 task1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md"
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.2 task1.md"
               }
             }
           }
@@ -160,11 +161,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5c1b059516ac9ce",
+  "active": "ebd2f3e41bab8a1e",
   "lastOpenFiles": [
+    "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.2 task1.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.1 task1.md",
-    "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/002 赛题说明——电力需求预测挑战赛.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/001 第一次速通.md",
