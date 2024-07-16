@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f332f3b262fcad75",
@@ -148,7 +147,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c94a54e61a6912b7",
+  "active": "a5c1b059516ac9ce",
   "lastOpenFiles": [
     "mck156.github.io/Datawhale机器学习2024暑假第二期/解释说明/0001.2 task1.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
