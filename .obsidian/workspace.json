@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f332f3b262fcad75",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.3 task1.md",
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.3 task1.md",
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.3 task1.md"
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md"
               }
             }
           }
@@ -161,11 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ebd2f3e41bab8a1e",
+  "active": "c94a54e61a6912b7",
   "lastOpenFiles": [
+    "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.2 task1.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.3 task1.md",
-    "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.2 task1.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释/0001.1 task1.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/代码解释",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/002 赛题说明——电力需求预测挑战赛.md",
