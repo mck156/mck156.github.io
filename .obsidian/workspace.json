@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "701f8700b59248b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/解释说明/0001.4 task2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a48a195b61131b16",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/004 task2.md",
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/解释说明/0001.4 task2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/004 task2.md",
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/解释说明/0001.4 task2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/004 task2.md"
+                "file": "mck156.github.io/Datawhale机器学习2024暑假第二期/解释说明/0001.4 task2.md"
               }
             }
           }
@@ -185,10 +197,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "59a6ed387372aff5",
+  "active": "701f8700b59248b8",
   "lastOpenFiles": [
-    "mck156.github.io/Datawhale机器学习2024暑假第二期/解释说明/0001.4 task2.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/004 task2.md",
+    "mck156.github.io/Datawhale机器学习2024暑假第二期/解释说明/0001.4 task2.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
     "mck156.github.io/Datawhale机器学习2024暑假第二期/解释说明/0001.3 task1.md",
     "mck156.github.io/基础知识学习/黑马面经课程/Redis使用场景-缓存-缓存穿透.md",
