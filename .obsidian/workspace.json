@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "641fc7fb14a6d748",
+        "id": "6703cabf540a8f1f",
         "type": "tabs",
         "children": [
           {
-            "id": "59a6ed387372aff5",
+            "id": "65fd8a06245a7328",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/004 task2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a48a195b61131b16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mck156.github.io/0002 读书笔记/穷爸爸和富爸爸.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f332f3b262fcad75",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mck156.github.io/0002 读书笔记/穷爸爸和富爸爸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mck156.github.io/0002 读书笔记/穷爸爸和富爸爸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "mck156.github.io/0002 读书笔记/穷爸爸和富爸爸.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,13 +139,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a48a195b61131b16",
+  "active": "c94a54e61a6912b7",
   "lastOpenFiles": [
-    "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/解释说明/0001.4 task2.md",
+    "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/004 task2.md",
     "mck156.github.io/0002 读书笔记/穷爸爸和富爸爸.md",
+    "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/解释说明/0001.4 task2.md",
     "mck156.github.io/0002 读书笔记",
     "mck156.github.io/0001 计算机竞赛&知识",
-    "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/004 task2.md",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/黑马面经课程/Redis使用场景-缓存-缓存击穿.md",
     "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
     "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/解释说明/0001.3 task1.md",
