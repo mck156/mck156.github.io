@@ -11,8 +11,12 @@
             "id": "65fd8a06245a7328",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "mck156.github.io/0002 读书笔记/把时间当作朋友.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f332f3b262fcad75",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mck156.github.io/0002 读书笔记/把时间当作朋友.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mck156.github.io/0002 读书笔记/把时间当作朋友.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mck156.github.io/0002 读书笔记/把时间当作朋友.md"
+              }
             }
           }
         ],
@@ -139,8 +148,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c94a54e61a6912b7",
+  "active": "65fd8a06245a7328",
   "lastOpenFiles": [
+    "mck156.github.io/0002 读书笔记/把时间当作朋友.md",
     "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/004 task2.md",
     "mck156.github.io/0002 读书笔记/穷爸爸和富爸爸.md",
     "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/解释说明/0001.4 task2.md",
