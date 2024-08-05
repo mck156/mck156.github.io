@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mck156.github.io/0002 读书笔记/把时间当作朋友.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f332f3b262fcad75",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mck156.github.io/0002 读书笔记/把时间当作朋友.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mck156.github.io/0002 读书笔记/把时间当作朋友.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mck156.github.io/0002 读书笔记/把时间当作朋友.md"
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md"
               }
             }
           }
@@ -149,16 +150,22 @@
   },
   "active": "65fd8a06245a7328",
   "lastOpenFiles": [
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/0001.jpg",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/黑马程序员JavaWeb开发教程，实现javaweb企业开发全流程（涵盖Spring+MyBatis+SpringMVC+SpringBoot等）_哔哩哔哩_bilibili_16'5.760''.jpg",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/新建文件夹",
     "mck156.github.io/0002 读书笔记/把时间当作朋友.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb",
     "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/004 task2.md",
     "mck156.github.io/0002 读书笔记/穷爸爸和富爸爸.md",
     "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/解释说明/0001.4 task2.md",
     "mck156.github.io/0002 读书笔记",
     "mck156.github.io/0001 计算机竞赛&知识",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/黑马面经课程/Redis使用场景-缓存-缓存击穿.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程/Redis使用场景-缓存-缓存击穿.md",
     "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
     "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/解释说明/0001.3 task1.md",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/黑马面经课程/Redis使用场景-缓存-缓存穿透.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程/Redis使用场景-缓存-缓存穿透.md",
     "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/解释说明/0001.1 task1.md",
     "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/001 第一次速通.md",
     "mck156.github.io/image/A000016.png",
@@ -172,22 +179,18 @@
     "mck156.github.io/image/A000013.png",
     "mck156.github.io/image/A000015.png",
     "mck156.github.io/image/A000014.png",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/黑马面经课程/1 准备篇/应届生该如何找到合适的练手项目.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程/1 准备篇/应届生该如何找到合适的练手项目.md",
     "mck156.github.io/image/A000005.png",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/黑马面经课程/JAVA面试专题.md",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/黑马面经课程/1 准备篇",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/黑马面经课程/1 准备篇/简历注意事项.md",
-    "mck156.github.io/image/A000009.png",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/黑马面经课程/1 准备篇/企业筛选简历.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程/JAVA面试专题.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程/1 准备篇",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程/1 准备篇/简历注意事项.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程/1 准备篇/企业筛选简历.md",
     "mck156.github.io/README.md",
     "README.md",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/黑马面经课程",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/numpy",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/Pandas",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/2 numpy",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/3 Pandas",
     "mck156.github.io/记录.md",
-    "mck156.github.io/image",
-    "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期",
     "mck156.github.io/test.md",
     "mck156.github.io/nihao.md",
     "欢迎.md"
