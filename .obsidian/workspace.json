@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f332f3b262fcad75",
@@ -148,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "65fd8a06245a7328",
+  "active": "c94a54e61a6912b7",
   "lastOpenFiles": [
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/未命名",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/Day01-03. Web前端开发-HTML-快速入门_哔哩哔哩_bilibili_12'45.300''.jpg",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/Day01-03. Web前端开发-HTML-快速入门_哔哩哔哩_bilibili_8'59.220''.jpg",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/Day01-03. Web前端开发-HTML-快速入门_哔哩哔哩_bilibili_6'57.195''.jpg",
@@ -160,7 +160,6 @@
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/Day01-02. Web前端开发-课程安排_哔哩哔哩_bilibili_3'53.509''.jpg",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/Day01-01. web开发-介绍_哔哩哔哩_bilibili_7'52.521''.jpg",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/Day01-01. web开发-介绍_哔哩哔哩_bilibili_7'14.154''.jpg",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/Day01-01. web开发-介绍_哔哩哔哩_bilibili_2'0.936''.jpg",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/新建文件夹",
     "mck156.github.io/0002 读书笔记/把时间当作朋友.md",
