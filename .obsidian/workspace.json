@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/5 人机交互技术/原型的力量.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f332f3b262fcad75",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/5 人机交互技术/原型的力量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/5 人机交互技术/原型的力量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md"
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/5 人机交互技术/原型的力量.md"
               }
             }
           }
@@ -147,9 +148,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c94a54e61a6912b7",
+  "active": "65fd8a06245a7328",
   "lastOpenFiles": [
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/未命名",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/5 人机交互技术/原型的力量.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/5 人机交互技术",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/Day01-03. Web前端开发-HTML-快速入门_哔哩哔哩_bilibili_12'45.300''.jpg",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/Day01-03. Web前端开发-HTML-快速入门_哔哩哔哩_bilibili_8'59.220''.jpg",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image/Day01-03. Web前端开发-HTML-快速入门_哔哩哔哩_bilibili_6'57.195''.jpg",
@@ -163,7 +166,6 @@
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/image",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/新建文件夹",
     "mck156.github.io/0002 读书笔记/把时间当作朋友.md",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb",
     "mck156.github.io/0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/004 task2.md",
     "mck156.github.io/0002 读书笔记/穷爸爸和富爸爸.md",
@@ -188,7 +190,6 @@
     "README.md",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/2 numpy",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/3 Pandas",
     "mck156.github.io/记录.md",
     "mck156.github.io/test.md",
     "mck156.github.io/nihao.md",
