@@ -77,9 +77,15 @@ class App extends React.Component {
 		fetch("https://pokeapi.co/api/v2/pokemon")
 		.then(res => res.json()) // 把获取到的数据转化为json格式
 		// .then(json => console.log(json.result)); 如果直接用赋值的方式来操作，那么可以替换为下面这条。但state里面改变了，页面却没有更新。
-		.then(json => {
+		/*.then(json => {
 			this.state.pokemons = json.results;
 			console.log(this.state)
+		});*/
+		.then(json => {
+			this.setState({
+				pokemons: json.results,
+			});
+			console.log(this.state);
 		});
 	}
 	render() {
