@@ -76,7 +76,11 @@ class App extends React.Component {
 		// 用fetch获取api的数据
 		fetch("https://pokeapi.co/api/v2/pokemon")
 		.then(res => res.json()) // 把获取到的数据转化为json格式
-		.then(json => console.log(json.result));
+		// .then(json => console.log(json.result)); 如果直接用赋值的方式来操作，那么可以替换为下面这条。但state里面改变了，页面却没有更新。
+		.then(json => {
+			this.state.pokemons = json.results;
+			console.log(this.state)
+		});
 	}
 	render() {
 		return (
@@ -98,4 +102,5 @@ class App extends React.Component {
 > - map里面li是后来引用的，页面从静态变成动态的了，即存在状态。数组的内容放在react状态里，可以动态进行操作，需要定义状态值。
 > - 获取API数据放在这个数组中，什么时候把获取到的API呈现在页面里？先呈现外面的轮廓，再把外面获取回来的数据呈现在页面上，用户看不到先数据后轮廓的现象了。
 > - componentDidMount是组件挂载完毕后再执行这个方法里面的内容
+> - react特点，不会像yi'qian'na
 
