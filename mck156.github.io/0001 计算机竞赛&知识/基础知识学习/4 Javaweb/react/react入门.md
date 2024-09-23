@@ -72,6 +72,12 @@ class App extends React.Component {
 			pokemons: ["皮卡丘","杰尼龟","小火龙"],// 初始化的状态值 可以不需要之前上面const定义
 		}
 	}
+	componentDidMount() {
+		// 用fetch获取api的数据
+		fetch("https://pokeapi.co/api/v2/pokemon")
+		.then(res => res.json()) // 把获取到的数据转化为json格式
+		.then(json => console.log(json.result));
+	}
 	render() {
 		return (
 			<div>
@@ -90,5 +96,6 @@ class App extends React.Component {
 }
 ```
 > - map里面li是后来引用的，页面从静态变成动态的了，即存在状态。数组的内容放在react状态里，可以动态进行操作，需要定义状态值。
-> - 获取API数据放在这个数组中，什么时候把获取到的API呈现在页面里？先呈现外面的轮廓，再把外面获取回来的数据呈现在页面上，用户看不到先数据后轮廓的现象了。 
+> - 获取API数据放在这个数组中，什么时候把获取到的API呈现在页面里？先呈现外面的轮廓，再把外面获取回来的数据呈现在页面上，用户看不到先数据后轮廓的现象了。
+> - componentDidMount是组件挂载完毕后再执行这个方法里面的内容
 
