@@ -40,7 +40,7 @@ class App extends React.Component { // 可以把所有组件的东西写进这�
 ```
 jsx不止写html，还可以写js
 ```js
-const pockmons = ["皮卡丘","杰尼龟","小火龙"]
+const pockmons = ["皮卡丘","杰尼龟","小火龙"] // 数组要写在类里面，又因为在初始化就要有，所以
 class App extends React.Component {
 	render() {
 		return (
@@ -48,10 +48,15 @@ class App extends React.Component {
 				<h1>宝可梦</h1>
 				<input type="search" />
 				<ul> /* 一个个写标签不太现实
-				*/
+				        <html>{插值表达式}</html>
+				        */
 					<li>{ pokemons[0] }</li>
 					<li>{ pokemons[1] }</li>
 					<li>{ pokemons[2] }</li>
+					// 替换方案
+					{
+						pokemons.map( pokemon => <li>{ pokemon }</li> )
+					}
 				</ul>
 			</div>
 		)
