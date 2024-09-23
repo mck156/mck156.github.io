@@ -18,5 +18,12 @@ root.render(<h1>宝可梦</h1>);
 如果把所有代码写render很恶心，render方法是传一个组件，组件有名字。
 创建组件：类组件和函数组件
 ```js
-root.render(<App />);
+class App extends React.Component { // 可以把所有组件的东西写进这个类里面
+	render() {
+		return <h1>宝可梦</h1>;
+	}
+}
+root.render(<App />);// App这里是类组件
 ```
+如果return的是个大括号，意味着返回的是一个js对象，js没有直接在里面写html的语法。
+
