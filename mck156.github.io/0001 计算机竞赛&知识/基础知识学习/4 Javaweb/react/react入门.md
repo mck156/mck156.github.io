@@ -69,7 +69,7 @@ class App extends React.Component {
 	constructor() {
 		super();
 		this.state /*对象*/ = { // state对象里可以定义各种状态了。
-			pokemons: ["皮卡丘","杰尼龟","小火龙"],// 初始化的状态值
+			pokemons: ["皮卡丘","杰尼龟","小火龙"],// 初始化的状态值 可以不需要之前上面const定义
 		}
 	}
 	render() {
@@ -80,7 +80,8 @@ class App extends React.Component {
 				<ul>/* <html>{插值表达式}</html>
 				        */
 					{
-						pokemons.map( pokemon => <li>{ pokemon }</li> )
+						/*这里加上this.state*/
+						this.state.pokemons.map( pokemon => <li>{ pokemon }</li> )
 					}
 				</ul>
 			</div>
@@ -89,5 +90,5 @@ class App extends React.Component {
 }
 ```
 > - map里面li是后来引用的，页面从静态变成动态的了，即存在状态。数组的内容放在react状态里，可以动态进行操作，需要定义状态值。
-> - 
+> - 获取API数据放在这个数组中，什么时候把获取到的API呈现在页面里？先呈现外面的轮廓，再把外面获取回来的数据呈现在页面上，用户看不到先数据后轮廓的现象了。 
 
