@@ -26,4 +26,20 @@ class App extends React.Component { // 可以把所有组件的东西写进这�
 root.render(<App />);// App这里是类组件
 ```
 如果return的是个大括号，意味着返回的是一个js对象，js没有直接在里面写html的语法。
+```js
+class App extends React.Component { // 可以把所有组件的东西写进这个类里面
+	render() {
+		return (
+			<div> //外面必须有一个爸爸，即div把下面这些标签包裹起来
+				<h1>宝可梦</h1>
+				<input type="search" />
+			</div>
+		)
+	}
+}
+```
+jsx不止写html，还可以写js
+```js
+const pockmons = ["皮卡丘","杰尼龟","小火龙"]
+```
 
