@@ -41,5 +41,21 @@ class App extends React.Component { // 可以把所有组件的东西写进这�
 jsx不止写html，还可以写js
 ```js
 const pockmons = ["皮卡丘","杰尼龟","小火龙"]
+class App extends React.Component {
+	render() {
+		return (
+			<div>
+				<h1>宝可梦</h1>
+				<input type="search" />
+				<ul> /* 一个个写标签不太现实
+				*/
+					<li>{ pokemons[0] }</li>
+					<li>{ pokemons[1] }</li>
+					<li>{ pokemons[2] }</li>
+				</ul>
+			</div>
+		)
+	}
+}
 ```
 
