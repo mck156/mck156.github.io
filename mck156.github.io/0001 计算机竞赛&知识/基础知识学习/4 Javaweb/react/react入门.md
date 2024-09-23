@@ -65,10 +65,12 @@ class App extends React.Component {
 ```
 替换方案
 ```js
-const pockmons = ["皮卡丘","杰尼龟","小火龙"]
 class App extends React.Component {
 	constructor() {
 		super();
+		this.state /*对象*/ = { // state对象里可以定义各种状态了。
+			pokemons: ["皮卡丘","杰尼龟","小火龙"],// 初始化的状态值
+		}
 	}
 	render() {
 		return (
@@ -86,4 +88,6 @@ class App extends React.Component {
 	}
 }
 ```
-map是后来引用的，
+> - map里面li是后来引用的，页面从静态变成动态的了，即存在状态。数组的内容放在react状态里，可以动态进行操作，需要定义状态值。
+> - 
+
