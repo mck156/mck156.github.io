@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/react/react入门.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/6 算法/算法题-不懂的方法&思路.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f332f3b262fcad75",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/react/react入门.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/6 算法/算法题-不懂的方法&思路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/react/react入门.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/6 算法/算法题-不懂的方法&思路.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/react/react入门.md"
+                "file": "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/6 算法/算法题-不懂的方法&思路.md"
               }
             }
           }
@@ -149,8 +150,10 @@
   },
   "active": "65fd8a06245a7328",
   "lastOpenFiles": [
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/react/react入门.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/6 算法/算法题-不懂的方法&思路.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/6 算法",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/未命名.md",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/react",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/半小时了解计算机网络.md",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/Pasted image 20240910142339.png",
@@ -190,10 +193,8 @@
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程/1 准备篇/企业筛选简历.md",
     "mck156.github.io/README.md",
     "README.md",
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程",
     "mck156.github.io/记录.md",
     "mck156.github.io/test.md",
-    "mck156.github.io/nihao.md",
-    "欢迎.md"
+    "mck156.github.io/nihao.md"
   ]
 }
