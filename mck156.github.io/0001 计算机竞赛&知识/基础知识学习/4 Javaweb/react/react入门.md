@@ -82,7 +82,7 @@ class App extends React.Component {
 			console.log(this.state)
 		});*/
 		.then(json => {
-			this.setState({
+			this.setState({ // 再创建一个新的对象改变内存的位置，输入我们要改变的键值对，同时改变li标签的插值表达式。因为数组里面以对象的形式存储表达式
 				pokemons: json.results,
 			});
 			console.log(this.state);
@@ -97,7 +97,7 @@ class App extends React.Component {
 				        */
 					{
 						/*这里加上this.state*/
-						this.state.pokemons.map( pokemon => <li>{ pokemon }</li> )
+						this.state.pokemons.map( pokemon => /*更新前 <li>{ pokemon }</li>*/<li>{ pokemon.name }</li> )
 					}
 				</ul>
 			</div>
