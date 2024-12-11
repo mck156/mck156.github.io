@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0001-Js调用函数.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0001-Js调用函数"
+              "title": "0002-计算"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0001-Js调用函数.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "0001-Js调用函数 的反向链接列表"
+              "title": "0002-计算 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0001-Js调用函数.md",
+                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "0001-Js调用函数 的出链列表"
+              "title": "0002-计算 的出链列表"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0001-Js调用函数.md"
+                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md"
               },
               "icon": "lucide-list",
-              "title": "0001-Js调用函数 的大纲"
+              "title": "0002-计算 的大纲"
             }
           }
         ],
@@ -166,8 +166,9 @@
   },
   "active": "65fd8a06245a7328",
   "lastOpenFiles": [
-    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/6 算法/算法题-不懂的方法&思路.md",
     "mck156.github.io/0001 计算机竞赛&知识/碎片集/0001-Js调用函数.md",
+    "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md",
+    "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/6 算法/算法题-不懂的方法&思路.md",
     "mck156.github.io/0001 计算机竞赛&知识/碎片集",
     "mck156.github.io/0001 计算机竞赛&知识/未命名.md",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/4 Javaweb/react/react入门.md",
@@ -210,7 +211,6 @@
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程/1 准备篇/简历注意事项.md",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/1 黑马面经课程/1 准备篇/企业筛选简历.md",
     "mck156.github.io/README.md",
-    "README.md",
-    "mck156.github.io/记录.md"
+    "README.md"
   ]
 }
