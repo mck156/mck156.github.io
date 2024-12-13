@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6703cabf540a8f1f",
+        "id": "6bcb24fe3f2085f2",
         "type": "tabs",
         "children": [
           {
-            "id": "65fd8a06245a7328",
+            "id": "0f7b54e58d9b08fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0002-计算"
+              "title": "新标签页"
             }
           }
         ]
@@ -77,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f332f3b262fcad75",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "0002-计算 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "0002-计算 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -139,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "0002-计算 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -164,10 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "65fd8a06245a7328",
+  "active": "0f7b54e58d9b08fb",
   "lastOpenFiles": [
-    "mck156.github.io/0001 计算机竞赛&知识/碎片集/0001-Js调用函数.md",
     "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md",
+    "mck156.github.io/0001 计算机竞赛&知识/碎片集/0001-Js调用函数.md",
     "mck156.github.io/0001 计算机竞赛&知识/基础知识学习/6 算法/算法题-不懂的方法&思路.md",
     "mck156.github.io/0001 计算机竞赛&知识/碎片集",
     "mck156.github.io/0001 计算机竞赛&知识/未命名.md",
