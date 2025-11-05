@@ -11,10 +11,14 @@
             "id": "0f7b54e58d9b08fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "记录.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "记录"
             }
           }
         ]
@@ -158,8 +162,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c94a54e61a6912b7",
+  "active": "0f7b54e58d9b08fb",
   "lastOpenFiles": [
+    "mck156.github.io/记录.md",
     "记录.md",
     "image/A000018.png",
     "image/A000017.png",
@@ -204,7 +209,6 @@
     "0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/004 task2.md",
     "0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/003 赛题分析.md",
     "0001 计算机竞赛&知识/Datawhale机器学习2024暑假第二期/001 第一次速通.md",
-    "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md",
-    "mck156.github.io/0001 计算机竞赛&知识/碎片集/0001-Js调用函数.md"
+    "mck156.github.io/0001 计算机竞赛&知识/碎片集/0002-计算.md"
   ]
 }
